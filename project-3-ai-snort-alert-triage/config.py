@@ -10,4 +10,5 @@ Provide:
 2. Type of attack
 3. Severity level
 4. Recommended action
+5. MITRE ATT&CK mapping (tactic + technique).
 """
