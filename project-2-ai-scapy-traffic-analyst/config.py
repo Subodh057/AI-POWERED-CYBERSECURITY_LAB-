@@ -9,5 +9,7 @@ Explain:
 1. What attack is happening
 2. Why it is dangerous
 3. Risk level
-4. What action should be taken
+4. What action should be taken.
+5. MITRE ATT&CK mapping (tactic + technique).
+
 """
